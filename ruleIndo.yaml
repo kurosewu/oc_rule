@@ -12,6 +12,11 @@ payload:
   - DOMAIN-SUFFIX,www.grab.com
   - DOMAIN-SUFFIX,go.grab.com
 
+  # Gojek
+  - DOMAIN-KEYWORD,gojek
+  - DOMAIN-SUFFIX,gojek.com
+  - DOMAIN-SUFFIX,www.gojek.com
+
   # OLX
   - DOMAIN-KEYWORD,olx
   - DOMAIN-SUFFIX,olx.com
