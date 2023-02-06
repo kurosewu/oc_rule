@@ -274,11 +274,6 @@ payload:
   # > Peacock
   - PROCESS-NAME,com.peacocktv.peacockandroid
   - DOMAIN-SUFFIX,peacocktv.com
-  # > Pornhub
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,phprcdn.com
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pornhubpremium.com
   # > 台湾好
   - PROCESS-NAME,com.twgood.android
   - DOMAIN-SUFFIX,skyking.com.tw
