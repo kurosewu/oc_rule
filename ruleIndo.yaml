@@ -24,17 +24,23 @@ payload:
 
   # OVO
   - DOMAIN-SUFFIX,ovo.id
+  - DOMAIN-SUFFIX,www.ovo.id
+  - DOMAIN-SUFFIX,m.dana.id
 
   # LinkAja
   - DOMAIN-KEYWORD,linkaja
   - DOMAIN-SUFFIX,linkaja.com
+  - DOMAIN-SUFFIX,www.linkaja.id
 
   # Dana
   - DOMAIN-SUFFIX,split.io
   - DOMAIN-SUFFIX,dana.id
+  - DOMAIN-SUFFIX,www.dana.id
+  - DOMAIN-SUFFIX,m.dana.id
   - DOMAIN-SUFFIX,innov8.id
 
   # Doku
+  - DOMAIN-KEYWORD,dokuwallet
   - DOMAIN-SUFFIX,dokuwallet.com
 
   # BCA
@@ -42,9 +48,13 @@ payload:
 
   # BRI (BRI Link,  BRImo, BRIcredit)
   - DOMAIN-SUFFIX,bri.co.id
+  - DOMAIN-SUFFIX,www.bri.co.id
+  - DOMAIN-SUFFIX,m.bri.co.id
 
   # Mandiri
   - DOMAIN-SUFFIX,mandiri.co.id
+  - DOMAIN-SUFFIX,www.mandiri.co.id
+  - DOMAIN-SUFFIX,m.mandiri.co.id
 
   # Bank Syariah Mandiri
   - DOMAIN-SUFFIX,bsm.co.id
