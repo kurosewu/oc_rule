@@ -1,10 +1,11 @@
 payload:
   # Go-Pay [Go-Jek]
   - DOMAIN-KEYWORD,gopay-topup
-
+  - DOMAIN-KEYWORD,gopay
+  - DOMAIN-SUFFIX,app.gopay.co.id
+  - DOMAIN-SUFFIX,gopay.co.id
   # OVO
   - DOMAIN-SUFFIX,ovo.id
-
   # LinkAja
   - DOMAIN-SUFFIX,linkaja.com
 
@@ -96,3 +97,10 @@ payload:
   - DOMAIN-SUFFIX,s0.bukalapak.com
   - DOMAIN-SUFFIX,fragment.bukalapak.com
   - DOMAIN-SUFFIX,assets.bukalapak.com
+
+  # TOKOPEDIA
+  - DOMAIN-KEYWORD,tokopedia
+  - DOMAIN-SUFFIX,m.tokopedia.com
+  - DOMAIN-SUFFIX,tokopedia.com
+  - DOMAIN-SUFFIX,www.tokopedia.com
+  - DOMAIN-SUFFIX,tokopedia.com
